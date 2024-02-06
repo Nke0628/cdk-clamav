@@ -22,6 +22,7 @@
   "dependencies": {
     "aws-cdk-lib": "2.116.1",
     "constructs": "^10.0.0",
-    "source-map-support": "^0.5.21"
+    "source-map-support": "^0.5.21",
+    "cdk-serverless-clamscan": "^2.1.29"
   }
 }
